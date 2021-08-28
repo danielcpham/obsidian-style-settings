@@ -1,3 +1,7 @@
+## Enhancement: Allow yaml to be interpolated into the css page. Allow scss syntax?
+
+i.e. I have a file `custom-settings.yaml` that automatically gets converted into `custom-settings.css` with the proper header.
+
 # Obsidian Style Settings Plugin
 
 This plugin allows snippet, theme, and plugin CSS files to define a set of configuration options. It then allows users to see all the tweakable settings in one settings pane. Style Settings allows both toggling classes on and off the `body` element, as well as setting numeric, string, and color CSS variables.
